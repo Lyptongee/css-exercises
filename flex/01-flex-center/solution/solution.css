@@ -23,7 +23,7 @@ which _is_ the best practice.
 We separated it out here to make it extra clear what has changed. */
 
 .container {
-  display: flex;
+  display: container;
   align-items: center;
   justify-content: center;
 }
